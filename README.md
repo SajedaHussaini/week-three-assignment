@@ -64,8 +64,9 @@ https://restcountries.com/v3.1/region/europe?fields=name,flags,region,population
 
 
 ## 📸 Screenshots
-## 🏚 Home Page
-<img width="1950" height="900" src="week-three-assignment/src/assets/screencapture-localhost-5175-2026-02-25-22_01_27.png"/>
+## Home Page
+<!-- <img width="1950" height="900" src="week-three-assignment/src/assets/screencapture-localhost-5175-2026-02-25-22_01_27.png"/> -->
+![Home Page](src/assets/screencapture-localhost-5175-2026-02-25-22_01_27.png)
 
 ### 🔎 Search Results Page
 <img width="1920" height="839" alt="screencapture-localhost-5175-2026-02-25-22_16_46" src="https://github.com/user-attachments/assets/878bb554-b8dc-4044-86e7-d1f3e6a0f048" />
